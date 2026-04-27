@@ -1,0 +1,5 @@
+1:"$Sreact.fragment"
+2:I[97367,["/_next/static/chunks/0dbhjjzl8qfwv.js"],"OutletBoundary"]
+3:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[["$","main",null,{"style":{"padding":"80px 20px 40px","display":"flex","justifyContent":"center"},"children":["$","div",null,{"style":{"maxWidth":"620px","width":"100%"},"children":[["$","h1",null,{"style":{"fontSize":"28px","marginBottom":"24px","fontWeight":"600"},"children":"Projets"}],["$","p",null,{"style":{"color":"#444","lineHeight":"1.7"},"children":"Cette section présentera les travaux en cours et les projets à venir."}],["$","p",null,{"style":{"marginTop":"12px","color":"#888"},"children":"Contenu à venir."}]]}]}],null,["$","$L2",null,{"children":["$","$3",null,{"name":"Next.MetadataOutlet","children":"$@4"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"4Sm9o9ENDmD6qBP42QJr3"}
+4:null
